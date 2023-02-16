@@ -1,4 +1,4 @@
-name: Hello Mundo!!
+name: Hello world
 
 on: [push]
 
